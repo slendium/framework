@@ -1,0 +1,23 @@
+{
+	"name": "slendium/framework",
+	"description": "The Slendium framework, a PHP framework for building web-based backends or apps.",
+	"type": "library",
+	"homepage": "https://www.slendium.org",
+	"license": "MIT",
+	"autoload": { "psr-4": { "Slendium\\Framework\\": "src/" } },
+	"autoload-dev": { "psr-4": { "Slendium\\FrameworkTests\\": "tests/" } },
+	"require-dev": {
+		"phpstan/phpstan": "^2.1",
+		"phpunit/phpunit": "^12"
+	},
+	"require": {
+		"php": "^8.5",
+		"ext-mbstring": "*",
+		"phpmailer/phpmailer": "^6.9",
+		"slendium/localization": "^0.6",
+		"slendium/http": "^0.1"
+	},
+	"authors": [
+		{ "name": "Christiaan Fahner", "homepage": "https://www.frisiapp.com", "role": "Lead" }
+	]
+}
