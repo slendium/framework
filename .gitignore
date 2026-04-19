@@ -1,0 +1,4 @@
+/vendor
+phpstan.txt
+composer.lock
+.phpunit.result.cache
