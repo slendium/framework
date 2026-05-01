@@ -6,3 +6,6 @@ parameters:
 	paths:
 		- src
 		- tests
+		- configs.php
+		- index.php
+		- cli.php
