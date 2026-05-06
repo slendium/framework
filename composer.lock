@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "5a9a87c41cd8e334f69e61ab36a1f9f3",
+    "content-hash": "e096ba229a65dcb800aecc85a6b4aa55",
     "packages": [
         {
             "name": "phpmailer/phpmailer",
@@ -89,16 +89,16 @@
         },
         {
             "name": "slendium/http",
-            "version": "v0.1.0",
+            "version": "v0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/slendium/http.git",
-                "reference": "ac7f5da804dac70b1c3cf23f932d68f7d71b0b46"
+                "reference": "957c3de38d19397e88a9178f860d7296eb654d88"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/slendium/http/zipball/ac7f5da804dac70b1c3cf23f932d68f7d71b0b46",
-                "reference": "ac7f5da804dac70b1c3cf23f932d68f7d71b0b46",
+                "url": "https://api.github.com/repos/slendium/http/zipball/957c3de38d19397e88a9178f860d7296eb654d88",
+                "reference": "957c3de38d19397e88a9178f860d7296eb654d88",
                 "shasum": ""
             },
             "require": {
@@ -128,9 +128,9 @@
             ],
             "description": "A framework-agnostic library for interoperable HTTP messaging.",
             "support": {
-                "source": "https://github.com/slendium/http/tree/v0.1.0"
+                "source": "https://github.com/slendium/http/tree/v0.2.0"
             },
-            "time": "2026-04-17T18:14:53+00:00"
+            "time": "2026-05-06T15:27:14+00:00"
         },
         {
             "name": "slendium/localization",
@@ -417,11 +417,11 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "2.1.50",
+            "version": "2.1.54",
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/d452086fb4cf648c6b2d8cf3b639351f79e4f3e2",
-                "reference": "d452086fb4cf648c6b2d8cf3b639351f79e4f3e2",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/8be50c3992107dc837b17da4d140fbbdf9a5c5bd",
+                "reference": "8be50c3992107dc837b17da4d140fbbdf9a5c5bd",
                 "shasum": ""
             },
             "require": {
@@ -466,7 +466,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-04-17T13:10:32+00:00"
+            "time": "2026-04-29T13:31:09+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -815,16 +815,16 @@
         },
         {
             "name": "phpunit/phpunit",
-            "version": "12.5.23",
+            "version": "12.5.24",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sebastianbergmann/phpunit.git",
-                "reference": "c54fcf3d6bcb6e96ac2f7e40097dc37b5f139969"
+                "reference": "d75dd30597caa80e72fad2ef7904601a30ef1046"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/c54fcf3d6bcb6e96ac2f7e40097dc37b5f139969",
-                "reference": "c54fcf3d6bcb6e96ac2f7e40097dc37b5f139969",
+                "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/d75dd30597caa80e72fad2ef7904601a30ef1046",
+                "reference": "d75dd30597caa80e72fad2ef7904601a30ef1046",
                 "shasum": ""
             },
             "require": {
@@ -893,7 +893,7 @@
             "support": {
                 "issues": "https://github.com/sebastianbergmann/phpunit/issues",
                 "security": "https://github.com/sebastianbergmann/phpunit/security/policy",
-                "source": "https://github.com/sebastianbergmann/phpunit/tree/12.5.23"
+                "source": "https://github.com/sebastianbergmann/phpunit/tree/12.5.24"
             },
             "funding": [
                 {
@@ -901,7 +901,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-04-18T06:12:49+00:00"
+            "time": "2026-05-01T04:21:04+00:00"
         },
         {
             "name": "sebastian/cli-parser",

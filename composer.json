@@ -1,6 +1,6 @@
 {
 	"name": "slendium/framework",
-	"description": "The Slendium framework, a PHP framework for building web-based backends or apps.",
+	"description": "A framework for building HTTP-based or CLI applications.",
 	"type": "library",
 	"homepage": "https://www.slendium.org",
 	"license": "MIT",
@@ -15,9 +15,9 @@
 		"ext-mbstring": "*",
 		"phpmailer/phpmailer": "^6.9",
 		"slendium/localization": "^0.6",
-		"slendium/http": "^0.1"
+		"slendium/http": "^0.2"
 	},
 	"authors": [
-		{ "name": "Christiaan Fahner", "homepage": "https://www.frisiapp.com", "role": "Lead" }
+		{ "name": "C. Fahner", "homepage": "https://www.frisiapp.com", "role": "Lead" }
 	]
 }
